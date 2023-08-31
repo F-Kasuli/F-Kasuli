@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @F-Kasuli
 - 👀 I’m interested in Programming and Cyber Security
 - 🌱 I’m currently learning ReactJS, Python and Java
-- 💞️ I’m looking to collaborate on the above programming languages.
+- 💞️ I’m looking to collaborate on the above mentioned.
 - 📫 How to reach me ...
 
 <!---
